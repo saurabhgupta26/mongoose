@@ -1,0 +1,20 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "Exercises listed in this repo are..   1. mongoose basics   2. mongoose schema, models and validations   3. CRUD in mongoose   4. structing data/document using mongoose models and associations",
+  "main": "answer.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhgupta26/mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhgupta26/mongoose/issues"
+  },
+  "homepage": "https://github.com/saurabhgupta26/mongoose#readme"
+}
